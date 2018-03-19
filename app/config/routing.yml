@@ -1,0 +1,4 @@
+investment_summary:
+    resource: "@InvestmentSummaryBundle/Controller/"
+    type:     annotation
+    prefix:   /

@@ -1,0 +1,10 @@
+{
+    "recipient": "vitali.kirich@imageaccess.com",
+    "brochureMarkup": "http://kic.ted-kteam.com/brochure/kic-click",
+    "order":{
+        "name":"ORDERNAME",
+        "code":"00000000",
+        "date":"20170728"
+    },
+    "html":"<html><head></head><body>Hello, World!</body></html>"
+}
